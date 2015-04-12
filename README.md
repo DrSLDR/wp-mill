@@ -30,4 +30,4 @@ The words "quick-and-dirty" mean anything to you? Don't complain. Or, better
   yet, fix it and send me a pull request.
 
 ## I have more questions!
-[Send them my way!](mailto:drsldr@sldr.se wp-mill)
+[Send them my way!](mailto:drsldr@sldr.se?subject=wp-mill)
